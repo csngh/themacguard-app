@@ -18,6 +18,9 @@ https://github.com/user-attachments/assets/0620995d-ac8b-4aba-9a90-00398d2edb6a
 
 </div>
 
+> [!NOTE]
+> **The MacGuard is under development and closed source.** This page shows what it does. The app will be published soon.
+
 <br>
 
 ## Highlights
@@ -88,6 +91,8 @@ https://github.com/user-attachments/assets/0620995d-ac8b-4aba-9a90-00398d2edb6a
 <br>
 
 ## Install
+
+> **Coming soon.** The MacGuard hasn't been released yet. These steps will apply once the first version is published.
 
 1. Open the [**Releases**](../../releases) page and download the latest `TheMacGuard.dmg`.
 2. Open the file and drag **The MacGuard** onto **Applications**.
