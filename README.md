@@ -14,7 +14,7 @@ What you protect is encrypted on your Mac. No account. No server. Nothing leaves
 
 [Highlights](#highlights) &nbsp;·&nbsp; [A closer look](#a-closer-look) &nbsp;·&nbsp; [What you can protect](#what-you-can-protect) &nbsp;·&nbsp; [Install](#install) &nbsp;·&nbsp; [Getting started](#getting-started) &nbsp;·&nbsp; [Good to know](#good-to-know) &nbsp;·&nbsp; [Questions](#questions)
 
-https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO-ID
+https://github.com/user-attachments/assets/0620995d-ac8b-4aba-9a90-00398d2edb6a
 
 </div>
 
